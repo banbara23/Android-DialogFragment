@@ -1,6 +1,19 @@
 <resources>
 	<string name="app_name">Android-DialogFragment</string>
 
-	<string name="hello_world">Hello world!</string>
+	<string name="description">各種ダイアログ表示</string>
 	<string name="action_settings">Settings</string>
+
+	<string name="dialog_ok_button">ok</string>
+	<string name="dialog_cancel_button">cancel</string>
+	<string name="dialog_title">title</string>
+	<string name="dialog_message">message</string>
+
+	<string name="radio_value_1">value1</string>
+	<string name="radio_value_2">value2</string>
+	<string name="radio_value_3">value3</string>
+
+	<string name="inner_message">〜します。よろしいですか？</string>
+	<string name="inner_ok_button">ok</string>
+	<string name="inner_ng_button">cancel</string>
 </resources>
